@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#36383E"/><stop offset="1" stop-color="#232529"/></linearGradient></defs>
+<rect width="1024" height="1024" fill="url(#bg)"/>
+
+<g transform="translate(1024 0) scale(-1 1)"><path d="M-80 600 L 320 770" stroke="#4B5990" stroke-width="190" fill="none" stroke-linecap="round"/><ellipse cx="110" cy="610" rx="150" ry="120" transform="rotate(22 110 610)" fill="#4B5990"/><path d="M330 770 L 452 400" stroke="#4B5990" stroke-width="150" fill="none" stroke-linecap="round"/></g>
+<rect x="500" y="250" width="190" height="190" rx="70" fill="#4B5990" transform="rotate(20 595 345)"/>
+<g><path d="M-80 600 L 320 770" stroke="#6F8CFF" stroke-width="190" fill="none" stroke-linecap="round"/><ellipse cx="110" cy="610" rx="150" ry="120" transform="rotate(22 110 610)" fill="#6F8CFF"/><path d="M330 770 L 452 400" stroke="#6F8CFF" stroke-width="150" fill="none" stroke-linecap="round"/></g>
+<rect x="352" y="246" width="200" height="200" rx="74" fill="#6F8CFF" transform="rotate(-20 452 346)"/>
+<path d="M430 282 Q500 270 534 300 M418 334 Q500 322 544 352 M424 386 Q496 378 532 404" stroke="#2A2C30" stroke-width="22" fill="none" stroke-linecap="round"/>
+
+</svg>
